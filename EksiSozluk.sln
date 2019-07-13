@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{32B64F1B-DEF0-465C-A282-9021837D357D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "styles", "styles", "{57DC59AA-5150-4771-B242-148572165A58}"
+	ProjectSection(SolutionItems) = preProject
+		Content\styles\eksi-main.css = Content\styles\eksi-main.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{022E0291-2031-4A2C-B0A5-0BE6772311F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{4BC3324B-6DCD-4791-A535-8292CDA09B9E}"
+	ProjectSection(SolutionItems) = preProject
+		Content\images\eksilogo-big.jpg = Content\images\eksilogo-big.jpg
+		Content\images\eksilogo-small.jpg = Content\images\eksilogo-small.jpg
+		Content\images\eksiseyler-logo.png = Content\images\eksiseyler-logo.png
+		Content\images\pena.png = Content\images\pena.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97631C3D-36BB-4D44-AC7F-6E92131B01F7}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57DC59AA-5150-4771-B242-148572165A58} = {32B64F1B-DEF0-465C-A282-9021837D357D}
+		{022E0291-2031-4A2C-B0A5-0BE6772311F3} = {32B64F1B-DEF0-465C-A282-9021837D357D}
+		{4BC3324B-6DCD-4791-A535-8292CDA09B9E} = {32B64F1B-DEF0-465C-A282-9021837D357D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15B6912-BA71-4B07-BDC3-9E77E9B407E2}
+	EndGlobalSection
+EndGlobal
